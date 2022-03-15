@@ -1,0 +1,32 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.user-list {
+	list-style: none
+}
+
+.user-list-item {
+	background: lightblue;
+	border: 0.5px solid;
+	display: block;
+	text-decoration: none;
+}
+
+.user-list-item:hover {
+	text-decoration: underline;
+}
+
+.button {
+	background: #eee;
+}
+
+.button:hover {
+	background: #e8e8e8;
+}
+
