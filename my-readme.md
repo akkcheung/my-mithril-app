@@ -27,3 +27,9 @@ https://stackoverflow.com/questions/42261027/mithril-component-not-updating-when
 https://kevinfiol.com/blog/simple-state-management-in-mithriljs/
 
 https://github.com/MithrilJS/mithril.js/issues/2302  // pass parameters to components when m.mount
+
+2022-3-16 
+
+https://mithril.js.org/testing.html
+
+https://docs.cypress.io/guides/core-concepts/introduction-to-cypress#Cypress-Can-Be-Simple-Sometimes
