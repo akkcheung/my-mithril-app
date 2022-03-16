@@ -1,6 +1,6 @@
 import m from "mithril"
 
-import Child from "./Child"
+import Child from "./Child.js"
 
 function Counter(vnode) {
 
